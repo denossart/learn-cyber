@@ -1,0 +1,4 @@
+
+==Articles
+
+https://owasp.org/www-community/attacks/xss
