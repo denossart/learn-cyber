@@ -1,2 +1,70 @@
 
+==CPUS
+
+--Cost
+--Performance
+--Usability
+--Security
+
+
+==Security objectives for software systems: C.I.A.
+
+Based on authorization
+
+--Confidentiality
+Storage (access) and transmission
+
+Possible attack: i.e. eavesdropping
+How?
+
+Protection: i.e. encryption
+
+--Integrity
+Editing
+
+Possible attack: editing, spoofing, replay
+How?
+
+Protection: ...
+
+--Availability
+
+Possible attack: denial of service (DoS - slow down or interrupt), distributed denial of service (DDoS)
+How? Cf Cisco course
+
+Protection: ...
+
+
+==Attack
+
+Prevent - Stop - Detect
+
+--Types of attack
+
+
+==Exploits
+
+Vulnerabilites software code can cause systems to be exploited
+
+
+==Attackers
+
+--Individuals and organized crime groups
+Motive: Financial
+
+--Secret and military services
+Motive: defence, espionage
+
+--Hacktivists and organized groups
+Motive: political
+
+Usually the most unpredictable
+
+
+==Terminology
+
+
+
 ==Sources
+
+--
