@@ -89,7 +89,30 @@ Malicious software
 Usually financial
 
 
+==Methods
 
+--Botnets
+--Backdoors
+--Clickjacking
+--Keyloggers
+--Proxies (to hide own connection)
+
+
+==Infection vectors
+
+--Software vulnerabilities (in files, in Apps)
+--Autorun
+--Drive-by downloads (exploit of code bug in browsers)
+--Cross-site scripting (absence of validation or cleaning of input on websites)
+
+
+==Historical attacks
+
+--Wannacry (2017, encryption, ransomware, security leak in Windows)
+--Notpetya (2016, encryption, ransomware, bug in code of financial software MeDoc)
+--Mirai (2016, DDos, botnets)
+--Stuxnet (2010, worm, usb - reprogrammed PLCs using Siemens software to speed up the rotation speed of uranium enrichment centrifuges in IRN)
+--Darkhotel (2014, spyware, via seemingly legitimate software update on hotel WiFi)
 
 
 
