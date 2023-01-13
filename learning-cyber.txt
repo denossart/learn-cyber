@@ -63,6 +63,34 @@ Usually the most unpredictable
 
 ==Terminology
 
+--Threat (situation, event)
+--Possible threat (theoretical)
+--Risk (uncertain event, condition)
+--Risk analysis (probability and impact)
+--Security incident (event with a threat + vulnerability at the same time and security measures not implemented)
+--Vulnerability (situation that makes a threat possible): in software, information systems, security procedures, internal control,...
+
+
+==Malware
+Malicious software
+
+--Adware: malware that serves adds
+--Riskware: legitimate software that can be abused with malicous intent
+
+--Trojans: seems useful but contains malicous code
+--Logic bombs: code runs when certain conditions are met
+--Viruses: can reproduce by attaching to an existing program - usually targets files
+--Worms: can reproduce autonomously in a network - they use lots of bandwidth
+--Backdoors: hidden access in soft- or hardware
+
+
+==Goals
+
+Usually financial
+
+
+
+
 
 
 ==Sources
