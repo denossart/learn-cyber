@@ -1,4 +1,25 @@
 
-==Articles
+==Nonprofit / Gov / Nongov
 
-https://owasp.org/www-community/attacks/xss
+--Guides
+https://www.cisecurity.org/controls
+https://owasp.org/www-community/attacks
+
+--Frameworks
+https://www.nist.gov/cyberframework
+
+--Standards
+https://www.iso.org/isoiec-27001-information-security.html
+
+
+==Commercial
+
+--Magazines
+https://www.globalsecuritymag.com
+
+--Terminology
+https://www.imperva.com/learn/
+https://learn.microsoft.com/en-us/previous-versions/tn-archive/dd632948(v=technet.10)
+https://www.broadcom.com/support/security-center
+
+
