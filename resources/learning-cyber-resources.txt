@@ -2,17 +2,17 @@
 ==NONPROFIT-GOV-NONGOV
 
 --Certifications
-> https://www.isc2.org
+> isc2.org
 
 --Frameworks
-> https://www.nist.gov/cyberframework
+> nist.gov/cyberframework
 
 --Guides
-> https://www.cisecurity.org/controls
-> https://owasp.org/www-community/attacks
+> cisecurity.org/controls
+> owasp.org/www-community/attacks
 
 --Standards
-> https://www.iso.org/isoiec-27001-information-security.html
+> iso.org/isoiec-27001-information-security.html
 
 
 ==COMMERCIAL
@@ -21,11 +21,11 @@
 > Beaver Kevin, "Hacking For Dummies", John Wiley & Sons Inc., 2022
 
 --Magazines
-> https://www.globalsecuritymag.com
+> globalsecuritymag.com
 
 --Terminology
-> https://www.imperva.com/learn/
-> https://learn.microsoft.com/en-us/previous-versions/tn-archive/dd632948(v=technet.10)
-> https://www.broadcom.com/support/security-center
+> imperva.com/learn/
+> learn.microsoft.com/en-us/previous-versions/tn-archive/dd632948(v=technet.10)
+> broadcom.com/support/security-center
 
 
