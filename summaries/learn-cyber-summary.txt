@@ -1,121 +1,102 @@
 
-==CPUS
+==C.P.U.S.
 
---Cost
---Performance
---Usability
---Security
+--COST
+--PERFORMANCE
+--USABILITY
+--SECURITY
 
 
-==Security objectives for software systems: C.I.A.
+==C.I.A.
+Security objectives for software systems
 
 Based on authorization
 
---Confidentiality
-Storage (access) and transmission
+--CONFIDENTIALITY
+----Storage (access) and transmission
+----Possible attack: i.e. eavesdropping (How?)
+----Protection: i.e. encryption
 
-Possible attack: i.e. eavesdropping
-How?
+--INTEGRITY
+----Editing
+----Possible attack: editing, spoofing, replay (How?)
+----Protection: ...
 
-Protection: i.e. encryption
-
---Integrity
-Editing
-
-Possible attack: editing, spoofing, replay
-How?
-
-Protection: ...
-
---Availability
-
-Possible attack: denial of service (DoS - slow down or interrupt), distributed denial of service (DDoS)
-How? Cf Cisco course
-
-Protection: ...
+--AVAILABILITY
+----Possible attack: denial of service (DoS - slow down or interrupt), distributed denial of service (DDoS) (How?) Cf Cisco course
+----Protection: ...
 
 
-==Attack
+==ATTACK
 
-Prevent - Stop - Detect
-
---Types of attack
-
-
-==Exploits
-
-Vulnerabilites software code can cause systems to be exploited
+--PREVENT - STOP - DETECT
+--TYPES OF ATTACK
 
 
-==Attackers
+==EXPLOITS
 
---Individuals and organized crime groups
-Motive: Financial
-
---Secret and military services
-Motive: defence, espionage
-
---Hacktivists and organized groups
-Motive: political
-
-Usually the most unpredictable
+Vulnerabilites in software code can cause systems to be exploited
 
 
-==Terminology
+==ATTACKERS
 
---Threat (situation, event)
---Possible threat (theoretical)
---Risk (uncertain event, condition)
---Risk analysis (probability and impact)
---Security incident (event with a threat + vulnerability at the same time and security measures not implemented)
---Vulnerability (situation that makes a threat possible): in software, information systems, security procedures, internal control,...
+--INDIVIDUALS / ORGANISED CRIME GROUPS
+----Motive: Financial
 
+--SECRET / MILITARY SERVICES
+----Motive: defence, espionage
 
-==Malware
-Malicious software
-
---Adware: malware that serves adds
---Riskware: legitimate software that can be abused with malicous intent
-
---Trojans: seems useful but contains malicous code
---Logic bombs: code runs when certain conditions are met
---Viruses: can reproduce by attaching to an existing program - usually targets files
---Worms: can reproduce autonomously in a network - they use lots of bandwidth
---Backdoors: hidden access in soft- or hardware
+--HACKTIVISTS / ORGANISED GROUPS
+----Motive: political
+----Usually the most unpredictable
 
 
-==Goals
+==TERMINOLOGY
 
+--THREAT (situation, event)
+--POSSIBLE THREAT (theoretical)
+--RISK (uncertain event, condition)
+--RISK ANALYSIS (probability and impact)
+--SECURITY INCIDENT (event with a threat + vulnerability at the same time and security measures not implemented)
+--VULNERABILITY (situation that makes a threat possible): in software, information systems, security procedures, internal control,...
+
+
+==MALWARE
+(Malicious software)
+
+--ADWARE: malware that serves adds
+--RISKWARE: legitimate software that can be abused with malicous intent
+
+--TROJANS: seems useful but contains malicous code
+--LOGIC BOMBS: code runs when certain conditions are met
+--VIRUSES: can reproduce by attaching to an existing program - usually targets files
+--WORMS: can reproduce autonomously in a network - they use lots of bandwidth
+--BACKDOORS: hidden access in soft- or hardware
+
+
+==GOALS
 Usually financial
 
 
-==Methods
+==METHODS
 
---Botnets
---Backdoors
---Clickjacking
---Keyloggers
---Proxies (to hide own connection)
-
-
-==Infection vectors
-
---Software vulnerabilities (in files, in Apps)
---Autorun
---Drive-by downloads (exploit of code bug in browsers)
---Cross-site scripting (absence of validation or cleaning of input on websites)
+--BOTNETS
+--BACKDOORS
+--CLICKJACKING
+--KEYLOGGERS
+--PROXIES (to hide own connection)
 
 
-==Historical attacks
+==INFECTION VECTORS
 
---Wannacry (2017, encryption, ransomware, security leak in Windows)
---Notpetya (2016, encryption, ransomware, bug in code of financial software MeDoc)
---Mirai (2016, DDos, botnets)
---Stuxnet (2010, worm, usb - reprogrammed PLCs using Siemens software to speed up the rotation speed of uranium enrichment centrifuges in IRN)
---Darkhotel (2014, spyware, via seemingly legitimate software update on hotel WiFi)
-
+--SOFTWARE (vulnerabilities in files, Apps,...)
+--AUTORUN
+--DRIVE-BY DOWNLOADS (exploit of code bug in browsers)
+--CROSS-SITE SCRIPTING (absence of validation or cleaning of input on websites)
 
 
-==Sources
+==SOURCES
 
---
+--Codecademy: "Fundamentals of Cybersecurity Skill Path"
+
+
