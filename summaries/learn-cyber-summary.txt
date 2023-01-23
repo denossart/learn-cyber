@@ -95,6 +95,12 @@ Usually financial
 --CROSS-SITE SCRIPTING (absence of validation or cleaning of input on websites)
 
 
+==INCIDENT RESPONSE
+
+----INCIDENT RESPONSE TEAM (IRT)
+----INCIDENT RESPONSE PLAN (IRP)
+
+
 ==SOURCES
 
 --Codecademy: "Fundamentals of Cybersecurity Skill Path"
