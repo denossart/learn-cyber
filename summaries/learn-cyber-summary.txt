@@ -7,7 +7,7 @@
 --SECURITY
 
 
-==C.I.A.
+==C.I.A. TRIAD
 Security objectives for software systems
 
 Based on authorization
@@ -99,6 +99,11 @@ Usually financial
 
 ----INCIDENT RESPONSE TEAM (IRT)
 ----INCIDENT RESPONSE PLAN (IRP)
+
+
+==CYBERSECURITY ROLES
+
+...
 
 
 ==SOURCES
