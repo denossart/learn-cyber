@@ -8,22 +8,39 @@
 
 
 ==C.I.A. TRIAD (CONCEPT)
-Security goals (strategic) and objectives (tactical, concrete, measurable) for software systems
+Concerns with software systems and data management
+
+--SECURITY GOALS
+Strategic
+
+--SECURITY OBJECTIVES
+Tactical, concrete, measurable
 
 Based on authentication / authorization
 
---CONFIDENTIALITY
-----Storage (access) and transmission
-----Possible attack: i.e. eavesdropping (How?)
+--RISK MANAGEMENT
+Used to evaluate risks and vulnerabilities based on the threat to any of the three C.I.A. principles
+
+--APPLICATION
+Respect in governance, practice, technical implementation
+
+--CONFIDENTIALITY (PRIVACY)
+----What? prevent unauthorized access (by systems, processes, individuals)
+----When?
+------In storage (data-at-rest)
+------In process
+------In transit
+----How? access controls, safeguards,...
+----Threat? possible attack like i.e. eavesdropping (How?)
 ----Protection: i.e. encryption
 
 --INTEGRITY
 ----Editing
-----Possible attack: editing, spoofing, replay (How?)
+----Threat: possible attack like editing, spoofing, replay (How?)
 ----Protection: ...
 
 --AVAILABILITY
-----Possible attack: denial of service (DoS - slow down or interrupt), distributed denial of service (DDoS) (How?) Cf Cisco course
+----Threat: possible attack: denial of service (DoS - slow down or interrupt), distributed denial of service (DDoS) (How?) Cf Cisco course
 ----Protection: ...
 
 
