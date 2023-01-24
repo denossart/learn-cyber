@@ -18,7 +18,7 @@ Concerns with software systems and data management
 ------In process
 ------In transit
 ----How? Access controls, safeguards, encryption,...
-----Threat? Possible attack like i.e. eavesdropping
+----Threat? Deliberate act like i.e. eavesdropping, accident,...
 
 --INTEGRITY
 ----What?
@@ -26,7 +26,7 @@ Concerns with software systems and data management
 ------Ensure authenticity of data origin / prevent non-repudiation
 ----When? Cf supra
 ----How? Cryptographic hashing
-----Threat? Possible attack like editing, spoofing, replay (How?)
+----Threat? Deliberate act like editing, spoofing, replay (How?)
 
 --AVAILABILITY
 ----What? Ensuring reliable and timely access to network service and data
@@ -43,6 +43,17 @@ Used to evaluate risks and vulnerabilities based on the threat to any of the thr
 --APPLICATION
 Respect in governance, practice, technical implementation
 
+
+==DATA BREACH
+Unauthorized access, intentional or by accident
+
+
+==DATA EXFILTRATION
+Type of data breach, but intentional
+
+
+==DATA LOSS
+Temporal or permanent unavailability
 
 
 ==ATTACK
