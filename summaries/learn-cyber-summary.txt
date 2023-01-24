@@ -10,13 +10,32 @@
 ==C.I.A. TRIAD (CONCEPT)
 Concerns with software systems and data management
 
---SECURITY GOALS
-Strategic
+--CONFIDENTIALITY (PRIVACY)
+----What? Prevent unauthorized access (by systems, processes, individuals)
+------Principle of least privilege
+----When?
+------In storage (data-at-rest)
+------In process
+------In transit
+----How? Access controls, safeguards, encryption,...
+----Threat? Possible attack like i.e. eavesdropping
 
---SECURITY OBJECTIVES
-Tactical, concrete, measurable
+--INTEGRITY
+----What?
+------Keep data in original state / protect from editing, destruction,...
+------Ensure authenticity of data origin / prevent non-repudiation
+----When? Cf supra
+----How? Cryptographic hashing
+----Threat? Possible attack like editing, spoofing, replay (How?)
 
-Based on authentication / authorization
+--AVAILABILITY
+----What? Ensuring reliable and timely access to network service and data
+----When? Always when necessary
+----How? Backups of data, redundancy of systems
+----Threat: possible attack like a denial of service (DoS - slow down or interrupt), distributed denial of service (DDoS), also accident, hardware/software failure, environmental concern,... (How?) Cf Cisco course
+
+--ADDED VALUE OF C.I.A.
+To simplify the security goals (strategic) and objectives (tactical, concrete, measurable) for policy writers, system architects, security practitioners
 
 --RISK MANAGEMENT
 Used to evaluate risks and vulnerabilities based on the threat to any of the three C.I.A. principles
@@ -24,24 +43,6 @@ Used to evaluate risks and vulnerabilities based on the threat to any of the thr
 --APPLICATION
 Respect in governance, practice, technical implementation
 
---CONFIDENTIALITY (PRIVACY)
-----What? prevent unauthorized access (by systems, processes, individuals)
-----When?
-------In storage (data-at-rest)
-------In process
-------In transit
-----How? access controls, safeguards,...
-----Threat? possible attack like i.e. eavesdropping (How?)
-----Protection: i.e. encryption
-
---INTEGRITY
-----Editing
-----Threat: possible attack like editing, spoofing, replay (How?)
-----Protection: ...
-
---AVAILABILITY
-----Threat: possible attack: denial of service (DoS - slow down or interrupt), distributed denial of service (DDoS) (How?) Cf Cisco course
-----Protection: ...
 
 
 ==ATTACK
