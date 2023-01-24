@@ -7,10 +7,10 @@
 --SECURITY
 
 
-==C.I.A. TRIAD
-Security objectives for software systems
+==C.I.A. TRIAD (CONCEPT)
+Security goals (strategic) and objectives (tactical, concrete, measurable) for software systems
 
-Based on authorization
+Based on authentication / authorization
 
 --CONFIDENTIALITY
 ----Storage (access) and transmission
