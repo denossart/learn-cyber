@@ -132,7 +132,30 @@ Usually financial
 
 ==CYBERSECURITY ROLES
 
-...
+--INCIDENT RESPONSE (IR)
+----Tasks
+------Pre-Incident: Prepare
+------Incident: Detect - Analyse - Contain - Eradicate - Recover
+------Post-Incident
+----Certifications
+------CISSP
+------GCIH
+------GCFE
+------GCFA
+
+--GOVERNANCE, RISK, COMPLIANCE (GRC)
+----Tasks
+------Plans, policies, procedures, risk assessment
+------Mpnitor compliance with regulatory frameworks (NIST Cybersecurity Framework, ISO 27001, COBIT, DFS, FFIEC)
+----Titles
+------Cyber GRC Analyst / Consultant / Advisor
+------Information Security Risk (and Compliance) Analyst (ISR(C)A)
+----Certifications
+------CISSP
+------CISM
+------CISA
+------PMP
+
 
 
 ==SOURCES
