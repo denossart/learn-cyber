@@ -2,48 +2,61 @@
 ==C.P.U.S.
 Influences on cybersecurity
 
---COST
---PERFORMANCE
---USABILITY
---SECURITY
+====COST
+====PERFORMANCE
+====USABILITY
+====SECURITY
 
 
 
 ==C.I.A. TRIAD (CONCEPT)
 Concerns with software systems and data management
 
---CONFIDENTIALITY (PRIVACY)
+====CONFIDENTIALITY (PRIVACY)
+
 ----What? Prevent unauthorized access (by systems, processes, individuals)
 ------Principle of least privilege
+
 ----When?
 ------In storage (data-at-rest)
 ------In process
 ------In transit
-----How? Access controls, safeguards, encryption,...
+
+----How can we ensure? Access controls, safeguards, encryption,...
+
 ----Threat? Deliberate act like i.e. eavesdropping, accident,...
 
---INTEGRITY
+====INTEGRITY
+
 ----What?
 ------Keep data in original state / protect from editing, destruction,...
 ------Ensure authenticity of data origin / prevent non-repudiation
+
 ----When? Cf supra
-----How? Cryptographic hashing
+
+----How can we ensure? Cryptographic hashing
+
 ----Threat? Deliberate act like editing, spoofing, replay (How?)
 
---AVAILABILITY
+====AVAILABILITY
+
 ----What? Ensuring reliable and timely access to network service and data
+
 ----When? Always when necessary
-----How? Backups of data, redundancy of systems
+
+----How can we ensure? Backups of data, redundancy of systems
+
 ----Threat: possible attack like a denial of service (DoS - slow down or interrupt), distributed denial of service (DDoS), also accident, hardware/software failure, environmental concern,... (How?) Cf Cisco course
 
---ADDED VALUE OF C.I.A.
-To simplify the security goals (strategic) and objectives (tactical, concrete, measurable) for policy writers, system architects, security practitioners
+====ADDED VALUE OF C.I.A.
+Simplify the (strategic) security goals and (tactical, concrete, measurable) objectives for policy writers, system architects, security practitioners
 
---RISK MANAGEMENT
+====RISK MANAGEMENT
 Used to evaluate risks and vulnerabilities based on the threat to any of the three C.I.A. principles
 
---APPLICATION
+====APPLICATION
 Respect in governance, practice, technical implementation
+
 
 
 ==DATA BREACH
