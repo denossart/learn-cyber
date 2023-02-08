@@ -1,10 +1,12 @@
 
 ==C.P.U.S.
+Influences on cybersecurity
 
 --COST
 --PERFORMANCE
 --USABILITY
 --SECURITY
+
 
 
 ==C.I.A. TRIAD (CONCEPT)
