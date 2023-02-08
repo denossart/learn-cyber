@@ -63,23 +63,29 @@ Respect in governance, practice, technical implementation
 Unauthorized access, intentional or by accident
 
 
+
 ==DATA EXFILTRATION
 Type of data breach, but intentional
+
 
 
 ==DATA LOSS
 Temporal or permanent unavailability
 
 
+
 ==ATTACK
 
---PREVENT - STOP - DETECT
---TYPES OF ATTACK
+====PREVENT - DETECT - STOP / MITIGATE
+====TYPES OF ATTACK
+
 
 
 ==EXPLOITS
+A program / code designed to find and exploit vulnerabilities in software code / systems for malicious purposes
 
-Vulnerabilites in software code can cause systems to be exploited
+A method, not a malware itself
+
 
 
 ==ATTACKERS
