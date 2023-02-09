@@ -232,6 +232,30 @@ Low level of technicality
 
 
 
+==SOCIAL ENGINEERING
+
+====VULNERABILITIES
+
+--Cognitive bias
+--Social norm
+
+====PRINCIPLES
+
+--Consensus aka social proof
+--Familiarity aka trust
+--Urgency aka scarcity
+--Authority aka intimidation
+
+====TECHNIQUES
+
+--Phishing
+#Types
+
+
+
+
+
+
 
 
 ==SOURCES
