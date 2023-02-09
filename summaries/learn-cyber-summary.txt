@@ -183,6 +183,7 @@ Absence of validation or cleaning of input on websites
 ==CYBERSECURITY ROLES
 
 ====INCIDENT RESPONSE (IR)
+High level of technicality
 
 --Tasks
 ----Pre-Incident: Prepare
@@ -196,6 +197,7 @@ Absence of validation or cleaning of input on websites
 ----GCFA
 
 ====GOVERNANCE, RISK, COMPLIANCE (G.R.C.)
+Low level of technicality
 
 --Tasks
 ----Plans, policies, procedures, risk assessment
@@ -209,6 +211,26 @@ Absence of validation or cleaning of input on websites
 ----CISM
 ----CISA
 ----PMP
+
+====THREAT INTELLIGENCE
+Medium level of technicality
+
+--Tasks
+----Digital forensics analysis
+----Adversary targeting
+----Identify / Monitor / Assess / Respond to cyber threats (I.M.A.R.)
+----Knowledge of threat intelligence frameworks such as MITRE
+
+====SECURITY OPERATIONS
+Medium level of technicality
+
+====OFFENSIVE SECURITY
+High level of technicality
+
+====DATA PRIVACY AND DATA PROTECTION
+Low level of technicality
+
+
 
 
 
