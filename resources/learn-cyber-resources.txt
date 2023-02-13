@@ -1,33 +1,41 @@
 
-==NONPROFIT-GOV-NONGOV
+==ASSESSMENT TOOLS
+> https://www.ffiec.gov/cyberassessmenttool.htm
+> https://danielmiessler.com/study/security-assessment-types/
 
---CERTIFICATIONS
+
+==CERTIFICATIONS
 > isc2.org
 
---PENETRATION TESTING
+
+==PENETRATION TESTING
 > https://csrc.nist.gov/glossary/term/penetration_testing
 
---FRAMEWORKS
-> nist.gov/cyberframework
 
---GUIDES
+==FRAMEWORKS
+> nist.gov/cyberframework
+> https://www.isaca.org/resources/cobit
+> https://www.mitre.org/focus-areas/cybersecurity
+
+
+==GUIDES
 > cisecurity.org/controls
 > owasp.org/www-community/attacks
 > cybersecurityguide.org
 
---STANDARDS
+
+==STANDARDS
 > iso.org/isoiec-27001-information-security.html
 
 
-==COMMERCIAL
-
---Books
+==Books
 > Beaver Kevin, "Hacking For Dummies", John Wiley & Sons Inc., 2022
 
---Magazines
+
+==Magazines
 > globalsecuritymag.com
 
---Terminology
+==Terminology
 > imperva.com/learn/
 > learn.microsoft.com/en-us/previous-versions/tn-archive/dd632948(v=technet.10)
 > broadcom.com/support/security-center
